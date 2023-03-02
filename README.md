@@ -1,2 +1,2 @@
-# patterns
-To keep track of different patterns from GOF to architectural patterns.
+# Patterns
+To keep track of different patterns from design patterns like GOF (Gang of Four) to architectural patterns.
