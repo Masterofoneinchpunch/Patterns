@@ -11,6 +11,12 @@ import java.util.List;
 public final class Composite extends Component {
     private final List<Component> children = new ArrayList();
 
+    /**
+     * Constructor for the Composite.
+     * 
+     * @param value The value.
+     * @param depth The depth.
+     */
     public Composite(int value, int depth) {
         super(value, depth);
     }
