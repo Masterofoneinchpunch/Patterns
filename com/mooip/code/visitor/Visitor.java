@@ -16,9 +16,9 @@ public interface Visitor {
     /**
      * Visits the composite.
      * 
-     * @param composite The Composite.
+     * @param node The Composite.
      */
-    public void visitComposite(Composite composite);
+    public void visitComposite(Composite node);
     
     /**
      * Visits the Leaf.
